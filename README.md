@@ -1,11 +1,12 @@
 Static WhatsApp template using HTML5, CSS and Bootstrap
-#Run without Docker
+
+# Run without Docker
 1. Clone this repository
 2. Got to project root directory
 3. Open index.html file in browser
 
 
-#Run with Docker-
+# Run with Docker-
 
 1. Clone this repository
 2. Got to project root directory
